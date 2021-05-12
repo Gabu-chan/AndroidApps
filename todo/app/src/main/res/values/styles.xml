@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/darkmodeback</item>
+        <item name="colorPrimaryDark">#202020</item>
+        <item name="colorAccent">#656565</item>
+    </style>
+
+    <style name="darkmode" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/darkmodeback</item>
+        <item name="colorPrimaryDark">#202020</item>
+        <item name="colorAccent">#656565</item>
+    </style>
+</resources>
